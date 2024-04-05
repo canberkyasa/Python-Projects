@@ -1,0 +1,9 @@
+{"url": "3dexperience_home_page_link(redacted for some reasons)", 
+"username": "your-username", 
+"password": "password-here", 
+"isHidden": false, 
+"webDriverPath": "\\\\path\\user\\username\\msedgedriver.exe" , 
+"downloadPath": "C:\\path\\username\\Downloads" ,
+"destinationPath": "C:\\Users\\username\\Desktop\\destinationFolder" ,
+"reportName": "ChangeReport" ,
+"reportName2": "ChangeActionInApprovalReport"}
